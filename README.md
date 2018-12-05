@@ -38,7 +38,7 @@ Open the web browser to `http://localhost:8081/`
 ### To build the production package
 
 ```
-npm run build
+yarn build
 ```
 
 
