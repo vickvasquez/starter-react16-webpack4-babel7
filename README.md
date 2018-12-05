@@ -1,7 +1,7 @@
 # React + Webpack  + Babel  Starter Kit
 
 
-### What were using
+### Supports
 
 * React 16.6.3
 * Webpack 4
